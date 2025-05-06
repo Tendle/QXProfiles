@@ -13,3 +13,5 @@ HOST-KEYWORD,colab
 HOST-KEYWORD,developerprofiles
 HOST-KEYWORD,generativelanguage
 HOST-KEYWORD,notebooklm
+HOST-SUFFIX,play.google.com
+HOST-SUFFIX,gstatic.com
